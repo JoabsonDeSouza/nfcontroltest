@@ -1,4 +1,4 @@
-import { Data } from '.';
+import { Data } from './index';
 
 export const list: Data[] = [
   {

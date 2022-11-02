@@ -1,5 +1,4 @@
 import { useNavigation } from '@react-navigation/native';
-import React from 'react';
 import { FlatList } from 'react-native-gesture-handler';
 import Header from '../../components/Header';
 import Card from './components/Card';

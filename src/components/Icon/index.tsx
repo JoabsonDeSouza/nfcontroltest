@@ -1,4 +1,3 @@
-import React from 'react';
 import MIcon from '@expo/vector-icons/MaterialIcons';
 import MFontAwesome from '@expo/vector-icons/FontAwesome';
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';

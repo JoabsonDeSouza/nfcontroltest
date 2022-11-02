@@ -1,5 +1,4 @@
 import { useNavigation } from '@react-navigation/native';
-import React from 'react';
 import { ADD_NEW_NOTE, ADD_NEW_EXPENSE } from '../../routes/CustomDrawer/icons';
 
 import { FloatingAction, IActionProps } from 'react-native-floating-action';

@@ -1,5 +1,4 @@
-import React from 'react';
-import { StyleSheet, View } from 'react-native';
+import { StyleSheet } from 'react-native';
 
 import { PieChart } from 'react-native-svg-charts';
 import Legend from './components/Legend';

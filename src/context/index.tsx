@@ -1,4 +1,3 @@
-import React from 'react';
 import { ToastProvider } from 'react-native-toast-notifications';
 
 import { AppProvider } from './app';

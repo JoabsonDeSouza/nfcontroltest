@@ -1,4 +1,3 @@
-import React from 'react';
 import { useNavigation } from '@react-navigation/native';
 import { useDrawerStatus } from '@react-navigation/drawer';
 import { Container, Text, SafeArea, Icon } from './styles';

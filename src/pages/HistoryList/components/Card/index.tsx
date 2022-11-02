@@ -1,5 +1,4 @@
-import React from 'react';
-import { Data } from '../..';
+import { Data } from '../../index';
 
 import { Container, Columns, Text, Status } from './styles';
 

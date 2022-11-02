@@ -1,4 +1,3 @@
-import React from 'react';
 import { TouchableOpacity } from 'react-native';
 import Header from '../../components/Header';
 import { useApp } from '../../context/app';

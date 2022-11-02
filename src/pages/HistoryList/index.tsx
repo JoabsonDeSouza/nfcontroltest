@@ -1,4 +1,3 @@
-import React from 'react';
 import { Dimensions, FlatList } from 'react-native';
 import Legend from '../../components/Chart/PierChart/components/Legend';
 import Header from '../../components/Header';

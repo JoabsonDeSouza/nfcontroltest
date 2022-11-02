@@ -1,12 +1,10 @@
-import React from 'react';
-
 import { Container, Text, Icon } from './styles';
 
-interface CardProps { 
+interface CardProps {
   title: string;
   icon: string;
   onPress: () => void;
-};
+}
 
 const Card = ({ title, icon, onPress }: CardProps) => {
   return (

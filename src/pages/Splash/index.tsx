@@ -1,5 +1,3 @@
-import React from 'react';
-
 import { Container, Loading } from './styles';
 
 const Splash = () => {
